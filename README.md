@@ -1,2 +1,2 @@
 # Mathematics
-Sample coursework from my bachelor's in mathematics
+Coursework from my bachelor's in mathematics
